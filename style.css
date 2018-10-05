@@ -1,0 +1,101 @@
+/* style.css */
+body{
+  background: rgb(255,245,245); 
+  color: purple ;
+  font-size: 20px;
+  font-family: 'Anton', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+
+;
+}
+h1{
+  font-family: 'Anton', sans-serif;
+  color: #FFC400;
+  font-weight: super bold;
+  font-size: 45px;
+  letter-spacing: 6px;
+  text-align: center 
+
+}
+h2 {
+  font-family: 'Anton', sans-serif;
+  color: #F8C1AE;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center 
+
+}
+a {
+  color: #D9D8D6;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center
+
+
+}
+a:hover {
+  text-decoration: none;
+  color: green;
+  text-align: center 
+
+}
+
+#soustitre{
+	color: #999442;
+	font-weight: medium;
+	font-size: 18px;
+	font-family: 'Cormorant Garamond', serif;
+	text-align: center 
+
+
+}
+
+p{
+	color:#BC682A;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: medium;
+    font-size: 15px;
+    text-align: center 
+
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/775998/pexels-photo-775998.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  padding: 50px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: #FFC400;
+  font-size: 50px;
+}
+#banner p {
+  color: #999442;
+  opacity: 1,5;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+} 
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+
+
